@@ -1,0 +1,40 @@
+{
+  "warlord": {
+    "local": {
+      "en": "Warlord", 
+      "fr": "Pistolancier"
+    },
+    "group": "Warriors",
+    "templates": {
+      "lonely-knight": {
+        "locale":  "Lonely Knight",
+        "engraving": ["Grudge", "Super Charge" ,"Master Brawler", "Cursed Doll"]
+      },
+      "light-shield": {
+        "locale":  "Light Shield",
+        "engraving": ["Grudge", "Barricade", "Spirit Absorption", "Stabilized Status"]
+      }
+    }
+  },
+  "berserker": {
+    "local": {
+      "en": "Berserker", 
+      "fr": "Berserker"
+    },
+    "group": "Warriors",
+    "templates": {
+      "Madness": {
+        "locale":  {
+            "en": "Madness"
+        },
+        "engraving": ["Grudge", "Master's Potential", "Keen", "Blunt Weapon",	"Raid Captain"]
+      },
+      "Hammer of Rage": {
+        "locale":  {
+          "en": "Hammer of Rage"
+        },
+        "engraving": ["Grudge", "Super Charge",	"Barricade", "Cursed Doll"]
+      }
+    }
+  }
+}
